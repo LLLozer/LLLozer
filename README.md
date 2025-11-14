@@ -1,4 +1,8 @@
-<img href="https://media1.tenor.com/m/CGTPX1hFgD0AAAAd/cool-bug-facts-one-day-you-will-have-to-answer-for-your-actions.gif"></img>
+<h1 align="center">What do you do?</h1>
+<p align="center">
+  <img src="https://media1.tenor.com/m/CGTPX1hFgD0AAAAd/cool-bug-facts-one-day-you-will-have-to-answer-for-your-actions.gif" />
+  <br/>
+</p>
 
 <!--
 **LLLozer/LLLozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
