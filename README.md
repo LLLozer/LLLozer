@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://media1.tenor.com/m/CGTPX1hFgD0AAAAd/cool-bug-facts-one-day-you-will-have-to-answer-for-your-actions.gif" />
-  <br/>
-</h1>
+![Cool Bug Facts](https://raw.githubusercontent.com/LLLozer/LLLozer/main/assets/bug-facts.gif)
 
 <!--
 **LLLozer/LLLozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
