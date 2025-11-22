@@ -1,4 +1,4 @@
-![Cool Bug Facts](https://cdn.jsdelivr.net/gh/LLLozer/LLLozer@main/assets/bug-facts.gif)
+![bug_facts_optimized](https://github.com/user-attachments/assets/55e4d8cb-3e53-4ae7-980c-e8250dd209a1)
 
 <!--
 **LLLozer/LLLozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
